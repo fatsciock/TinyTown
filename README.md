@@ -1,8 +1,7 @@
-#TinyTown
-## Regole Generali
-Il gioco è una simulazione simile a SimCity,
-in cui il giocatore dovrà costruire, organizzare ed espandere una città.
+# TinyTown
+A simple game inspired by SimCity, the player must build, organize and develop a city.
+Developed for a college project.
 
-##Developed by
-	-	Lucchi Matteo
-	-	Negri Andrea
+## Team
+- [Andrea Negri](https://github.com/fatsciock)
+- [Matteo Lucchi](https://github.com/MatteoLucchi1998)
