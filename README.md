@@ -1,6 +1,6 @@
 # TinyTown
-A simple game inspired by SimCity, the player must build, organize and develop a city.
-Developed for a college project.
+Gioco ispirato a SimCity, sviluppato come progetto per il corso di OOP.
+
 
 ## Team
 - [Andrea Negri](https://github.com/fatsciock)
